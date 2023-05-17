@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: #fce189 ;
+}
+a{
+   color: green; 
+}
+.photo{
+    border-radius: 10px;
+}
+.links{
+    display: block;
+}
